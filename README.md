@@ -1,7 +1,5 @@
 # Enterprise System Architecture - Ride-Sharing Platform 🚗
 
-[![Build Status](https://github.com/ericgitangu/enterprise-system-architecture/workflows/CI%2FCD/badge.svg)](https://github.com/ericgitangu/enterprise-system-architecture/actions)
-[![Coverage](https://codecov.io/gh/ericgitangu/enterprise-system-architecture/branch/main/graph/badge.svg)](https://codecov.io/gh/ericgitangu/enterprise-system-architecture)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-1.28+-blue.svg)](https://kubernetes.io/)
 [![Terraform](https://img.shields.io/badge/Terraform-1.5+-purple.svg)](https://terraform.io/)
